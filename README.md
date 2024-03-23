@@ -1,5 +1,6 @@
 <div align="center">
-<h2> <img src="https://github.com/megaposada/Infiedracraft/assets/164438523/b646f072-559a-46c1-96ce-eb9c469884de" width="350" height="350"></h2>
+<h2> <img src="https://github.com/megaposada/INFIEDRACRAFT/assets/164438523/3f0f00e5-bbce-4bae-b9ee-cf01738ca2f5" width="400" height="400"></h2>
+
 
 # INFIEDRACRAFT REMASTERED ADDON
 
