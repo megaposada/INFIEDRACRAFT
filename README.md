@@ -1,5 +1,5 @@
 <div align="center">
-<h2> <img src="https://github.com/megaposada/INFIEDRACRAFT/assets/164438523/3f0f00e5-bbce-4bae-b9ee-cf01738ca2f5" width="400" height="400"></h2>
+<h2> <img src="https://raw.githubusercontent.com/megaposada/INFIEDRACRAFT/refs/heads/main/pack_icon.jpg" width="400" height="400"></h2>
 
 
 # INFIEDRACRAFT REMASTERED ADDON
